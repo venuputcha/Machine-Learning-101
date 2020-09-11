@@ -1,2 +1,3 @@
-# ml_001
+# ML
+
 Machine Learning Solutions - Coursera
